@@ -1,0 +1,27 @@
+{
+  "name": "apollo-query-as-prop",
+  "version": "0.1.0",
+  "description": "Attach Apollo Query as a prop to Component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/souvikbasu/apollo-query-as-prop.git"
+  },
+  "keywords": [
+    "react",
+    "apollo",
+    "query",
+    "graphql",
+    "component",
+    "query-as-prop"
+  ],
+  "author": "Souvik Basu <souvikbasu@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/souvikbasu/apollo-query-as-prop/issues"
+  },
+  "homepage": "https://github.com/souvikbasu/apollo-query-as-prop#readme"
+}
